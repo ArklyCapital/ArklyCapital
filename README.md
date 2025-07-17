@@ -1,9 +1,19 @@
-# Arkly Capital - Tokenized Real Estate on Solana
+# Arkly Capital - Tokenized Real Estate Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF)](https://solana.com/)
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)](https://www.typescriptlang.org/)
-[![Anchor](https://img.shields.io/badge/Framework-Anchor-red)](https://www.anchor-lang.com/)
+[![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=00FFA3)](https://solana.com/)
+[![Anchor](https://img.shields.io/badge/Anchor-0.28.0-blue)](https://www.anchor-lang.com/)
+
+🏗️ **Production-Ready Smart Contracts for Tokenized Real Estate on Solana**
+
+## ⚠️ Important Legal Notice
+
+**Arkly Capital Ltd.** is an international private company incorporated under the International Business Companies Act, 2016 (Seychelles). 
+- **Registered Number**: IBC-247019
+- **Registered Office**: Suite 1, Global Capital House, Mont Fleuri, Victoria, Mahé, Seychelles
+- **Legal Disclaimer**: This software does not constitute investment advice or an offer to solicit investments.
+
+---
 
 > **Bridging traditional real estate with decentralized finance through tokenized rental properties.**
 
